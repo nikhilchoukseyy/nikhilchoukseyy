@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑 Hey! I'm Nikhil — a IT student who loves building things.<br>🔭 work with MERN, React Native, and python<br>🌱 Currently building PrepTube (collab learning platform)<br>
+🧑 Hey! I'm Nikhil — a IT student who loves building things.<br>🔭 work with MERN, React Native, and python<br>🌱 Currently building PrepTube(https://preptube.online/ (collab learning platform)<br>
 
 
 ## 🌐 Socials:
